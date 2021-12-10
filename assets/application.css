@@ -1,0 +1,212 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Selection */
+
+::-moz-selection {
+  @apply bg-yellow-100;
+}
+
+::selection {
+  @apply bg-yellow-100;
+}
+
+/* Body */
+
+body {
+  overflow: hidden;
+}
+
+body::before {
+  background-image: url('/images/noise.gif');
+  background-repeat: repeat;
+  background-position: center center;
+  bottom: 0;
+  content: '';
+  display: block;
+  left: 0;
+  opacity: 0.15;
+  pointer-events: none;
+  position: fixed;
+  right: 0;
+  top: 0;
+  z-index: -3;
+}
+
+/* Redacted */
+
+.redacted {
+  font-family: 'Redacted', cursive;
+}
+
+.redacted-script {
+  font-family: 'Redacted Script', cursive;
+}
+
+.redacted-hover:hover .redacted,
+.redacted-hover:hover .redacted-script,
+.redacted-hover:focus .redacted,
+.redacted-hover:focus .redacted-script {
+  font-family: inherit;
+}
+
+/* Background Image */
+
+.background-image {
+  @apply fixed object-cover top-0 left-0 w-full h-full select-none;
+  z-index: -5;
+}
+
+/* Logo */
+
+@keyframes xxxxxxxooo-svg {
+  0% {
+    stroke-dashoffset: 666;
+  }
+
+  50% {
+    stroke-dashoffset: 0;
+  }
+
+  75% {
+    stroke-dashoffset: 666;
+  }
+}
+
+svg polyline {
+  animation: xxxxxxxooo-svg 6666ms cubic-bezier(0.2, 1, 0.2, 1) infinite;
+  fill: none;
+  stroke-dasharray: 333;
+  stroke-dashoffset: 666;
+  stroke-linecap: square;
+  stroke-linejoin: round;
+  stroke-width: 5;
+}
+
+svg polyline:nth-child(1) {
+  animation-delay: 100ms;
+}
+
+svg polyline:nth-child(2) {
+  animation-delay: 150ms;
+}
+
+svg polyline:nth-child(3) {
+  animation-delay: 200ms;
+}
+
+svg polyline:nth-child(4) {
+  animation-delay: 250ms;
+}
+
+svg polyline:nth-child(5) {
+  animation-delay: 300ms;
+}
+
+svg polyline:nth-child(6) {
+  animation-delay: 350ms;
+}
+
+svg polyline:nth-child(7) {
+  animation-delay: 400ms;
+}
+
+svg polyline:nth-child(8) {
+  animation-delay: 450ms;
+}
+
+svg polyline:nth-child(9) {
+  animation-delay: 500ms;
+}
+
+svg polyline:nth-child(10) {
+  animation-delay: 550ms;
+}
+
+svg polyline:nth-child(11) {
+  animation-delay: 600ms;
+}
+
+svg polyline:nth-child(12) {
+  animation-delay: 650ms;
+}
+
+svg polyline:nth-child(13) {
+  animation-delay: 700ms;
+}
+
+svg polyline:nth-child(14) {
+  animation-delay: 750ms;
+}
+
+svg polyline:nth-child(15) {
+  animation-delay: 800ms;
+}
+
+svg polyline:nth-child(16) {
+  animation-delay: 850ms;
+}
+
+svg polyline:nth-child(17) {
+  animation-delay: 900ms;
+}
+
+svg polyline:nth-child(18) {
+  animation-delay: 950ms;
+}
+
+svg polyline:nth-child(19) {
+  animation-delay: 1000ms;
+}
+
+svg polyline:nth-child(20) {
+  animation-delay: 1050ms;
+}
+
+/* Paper */
+
+.wrap {
+  z-index: 2;
+}
+
+.paper {
+  @apply bg-yellow-50;
+
+  background-image: linear-gradient(
+      90deg,
+      transparent 4rem,
+      #abced4 4rem,
+      #abced4 calc(4rem + 2px),
+      transparent calc(4rem + 2px)
+    ),
+    linear-gradient(#eeeeee 0.1rem, transparent 0.1rem);
+  background-size: 100% calc(2rem);
+  background-position: 0 2rem;
+  box-shadow: inset 0 0 0 1px #c2c2c2;
+  line-height: 2rem;
+  position: relative;
+}
+
+.paper:before,
+.paper:after {
+  @apply bg-yellow-50;
+
+  box-shadow: inset 0 0 0 1px #c2c2c2;
+  content: '';
+  height: 100%;
+  position: absolute;
+  width: 100%;
+}
+
+.paper:before {
+  top: 4px;
+  left: 4px;
+  z-index: -1;
+}
+
+.paper:after {
+  top: 8px;
+  left: 8px;
+  z-index: -2;
+}
