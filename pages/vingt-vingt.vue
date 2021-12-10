@@ -12,7 +12,7 @@
         }"
         class="flex-1 relative overflow-y-scroll overflow-x-hidden w-full"
       >
-        <div class="wrap max-w-sm p-8 pr-12">
+        <div class="wrap max-w-sm p-8 pb-10 pr-12">
           <div class="paper pb-8">
             <div class="mb-8 pt-px px-px">
               <img
@@ -128,7 +128,7 @@
                     <li class="flex items-center justify-between">
                       <a
                         href="https://music.apple.com/br/album/vingt-vingt/1525239686"
-                        class="flex items-center justify-between text-2xl text-red-500 underline hover:text-black"
+                        class="flex items-center justify-between text-red-500 underline hover:text-black"
                         target="_blank"
                         rel="noopener"
                       >
@@ -138,7 +138,7 @@
                     <li class="flex items-center justify-between">
                       <a
                         href="https://xxxxxxxooo.bandcamp.com/album/vingt-vingt"
-                        class="flex items-center justify-between text-2xl text-red-500 underline hover:text-black"
+                        class="flex items-center justify-between text-red-500 underline hover:text-black"
                         target="_blank"
                         rel="noopener"
                       >
@@ -148,7 +148,7 @@
                     <li class="flex items-center justify-between">
                       <a
                         href="https://deezer.com/br/album/163383462"
-                        class="flex items-center justify-between text-2xl text-red-500 underline hover:text-black"
+                        class="flex items-center justify-between text-red-500 underline hover:text-black"
                         target="_blank"
                         rel="noopener"
                       >
@@ -158,7 +158,7 @@
                     <li class="flex items-center justify-between">
                       <a
                         href="https://open.spotify.com/album/6NgLlnVG9HTJA8U0TcRj4Z"
-                        class="flex items-center justify-between text-2xl text-red-500 underline hover:text-black"
+                        class="flex items-center justify-between text-red-500 underline hover:text-black"
                         target="_blank"
                         rel="noopener"
                       >
@@ -168,7 +168,7 @@
                     <li class="flex items-center justify-between">
                       <a
                         href="https://tidal.com/browse/album/150081917"
-                        class="flex items-center justify-between text-2xl text-red-500 underline hover:text-black"
+                        class="flex items-center justify-between text-red-500 underline hover:text-black"
                         target="_blank"
                         rel="noopener"
                       >
@@ -178,7 +178,7 @@
                     <li class="flex items-center justify-between">
                       <a
                         href="https://youtube.com/watch?v=zfEtdrSOpNs"
-                        class="flex items-center justify-between text-2xl text-red-500 underline hover:text-black"
+                        class="flex items-center justify-between text-red-500 underline hover:text-black"
                         target="_blank"
                         rel="noopener"
                       >
@@ -213,7 +213,7 @@
         }"
         class="flex-1 relative overflow-y-scroll overflow-x-hidden w-full"
       >
-        <div class="wrap max-w-sm p-8 pr-12">
+        <div class="wrap max-w-sm p-8 pb-10 pr-12">
           <div class="paper py-8">
             <dl class="space-y-8">
               <div class="flex redacted-hover">

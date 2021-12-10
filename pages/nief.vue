@@ -12,7 +12,7 @@
         }"
         class="flex-1 relative overflow-y-scroll overflow-x-hidden w-full"
       >
-        <div class="wrap max-w-sm p-8 pr-12">
+        <div class="wrap max-w-sm p-8 pb-10 pr-12">
           <div class="paper pb-8">
             <div class="mb-8 pt-px px-px">
               <img
@@ -181,7 +181,7 @@
         }"
         class="flex-1 relative overflow-y-scroll overflow-x-hidden w-full"
       >
-        <div class="wrap max-w-sm p-8 pr-12">
+        <div class="wrap max-w-sm p-8 pb-10 pr-12">
           <div class="paper py-8">
             <dl class="space-y-8">
               <div class="flex redacted-hover">
@@ -238,7 +238,7 @@
             </dl>
           </div>
         </div>
-        <div class="wrap max-w-sm p-8 pr-12">
+        <div class="wrap max-w-sm p-8 pb-10 pr-12">
           <div class="paper py-8">
             <dl class="space-y-8">
               <div class="flex redacted-hover">
@@ -306,7 +306,7 @@
             </dl>
           </div>
         </div>
-        <div class="wrap max-w-sm p-8 pr-12">
+        <div class="wrap max-w-sm p-8 pb-10 pr-12">
           <div class="paper py-8">
             <dl class="space-y-8">
               <div class="flex redacted-hover">
@@ -334,7 +334,7 @@
                   <div class="space-y-8">
                     <p>
                       Informatique, robotique, electronique<br />
-                      <span style="display: block; direction: rtl"
+                      <span class="block" style="direction: rtl"
                         >كلش تمنييك,جاي لدنيا حسبت روحك انت هو ربها</span
                       >
                       Your real life, turned into fake life<br />
@@ -362,7 +362,7 @@
             </dl>
           </div>
         </div>
-        <div class="wrap max-w-sm p-8 pr-12">
+        <div class="wrap max-w-sm p-8 pb-10 pr-12">
           <div class="paper pb-8">
             <dl class="space-y-8">
               <div class="flex redacted-hover">

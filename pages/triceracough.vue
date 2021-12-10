@@ -12,7 +12,7 @@
         }"
         class="flex-1 relative overflow-y-scroll overflow-x-hidden w-full"
       >
-        <div class="wrap max-w-sm p-8 pr-12">
+        <div class="wrap max-w-sm p-8 pb-10 pr-12">
           <div class="paper pb-8">
             <div class="mb-8 pt-px px-px">
               <img
