@@ -124,6 +124,16 @@
                     </li>
                     <li class="flex items-center justify-between">
                       <a
+                        href="https://instagram.com/ar/1241536719557611"
+                        class="flex items-center justify-between text-red-500 underline hover:text-black"
+                        target="_blank"
+                        rel="noopener"
+                      >
+                        Instagram Filter 🡥
+                      </a>
+                    </li>
+                    <li class="flex items-center justify-between">
+                      <a
                         href="https://open.spotify.com/album/5gX1vki0e5muS6cZlAKRJC"
                         class="flex items-center justify-between text-red-500 underline hover:text-black"
                         target="_blank"
