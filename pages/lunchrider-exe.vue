@@ -1,6 +1,6 @@
 <template>
   <div class="flex">
-    <img src="/images/thumbnail-lunch-rider.jpg" class="background-image" />
+    <img src="/images/thumbnail-lunchrider-exe.jpg" class="background-image" />
     <div class="flex min-h-screen z-10">
       <overlay-scrollbars
         :options="{
@@ -16,7 +16,7 @@
           <div class="paper pb-8">
             <div class="mb-8 pt-px px-px">
               <img
-                src="/images/lunch-rider.png"
+                src="/images/lunchrider-exe.png"
                 class="object-cover h-80 select-none"
               />
             </div>
@@ -25,7 +25,7 @@
                 <dt class="w-16 flex-shrink-0 text-sm font-medium redacted">
                   Title
                 </dt>
-                <dd class="flex-1 text-2xl redacted-script">Lunch Rider</dd>
+                <dd class="flex-1 text-2xl redacted-script">LunchRider.exe</dd>
               </div>
               <div class="flex redacted-hover">
                 <dt class="w-16 flex-shrink-0 text-sm font-medium redacted">
@@ -137,7 +137,7 @@
                   Info
                 </dt>
                 <dd class="text-2xl redacted-script">
-                  Lunch Rider (EP), by XXXXXXXOOO featuring Grupo Porco de
+                  LunchRider.exe (EP), by XXXXXXXOOO featuring Grupo Porco de
                   Grindcore Interpretativo. Recorded in FL Studio 20 during the
                   COVID-19 quarantine.
                 </dd>
@@ -153,7 +153,7 @@
 export default {
   head() {
     return {
-      title: 'XXXXXXXOOO — Lunch Rider',
+      title: 'XXXXXXXOOO — LunchRider.exe',
     }
   },
 

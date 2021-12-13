@@ -32,11 +32,11 @@
                     <ul role="menu">
                       <li class="flex items-center justify-between">
                         <nuxt-link
-                          to="/lunch-rider"
+                          to="/lunchrider-exe"
                           class="flex items-center justify-between text-red-500 underline hover:text-black"
                           exact-active-class="bg-yellow-100"
                         >
-                          Lunch Rider 🡦
+                          LunchRider.exe 🡦
                         </nuxt-link>
                         <sup class="text-xs font-medium ml-1 uppercase"
                           >New</sup
