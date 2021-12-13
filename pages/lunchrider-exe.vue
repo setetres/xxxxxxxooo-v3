@@ -56,7 +56,7 @@
                           2
                         </span>
                         <span class="ml-2 flex-1 truncate redacted-script">
-                          Sleep
+                          Sleep/Repeat, Part 1
                         </span>
                       </div>
                       <div class="ml-4 flex-shrink-0">2:02</div>
@@ -67,7 +67,7 @@
                           3
                         </span>
                         <span class="ml-2 flex-1 truncate redacted-script">
-                          Repeat
+                          Sleep/Repeat, Part 2
                         </span>
                       </div>
                       <div class="ml-4 flex-shrink-0">2:27</div>
@@ -137,9 +137,8 @@
                   Info
                 </dt>
                 <dd class="text-2xl redacted-script">
-                  LunchRider.exe (EP), by XXXXXXXOOO featuring Grupo Porco de
-                  Grindcore Interpretativo. Recorded in FL Studio 20 during the
-                  COVID-19 quarantine.
+                  LunchRider.exe (EP), by XXXXXXXOOO featuring Grupo Porco.
+                  Recorded in FL Studio 20 during the COVID-19 quarantine.
                 </dd>
               </div>
             </dl>
