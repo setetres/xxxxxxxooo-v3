@@ -1,6 +1,11 @@
 {
   "name": "xxxxxxxooo-v3",
-  "version": "1.0.0",
+  "version": "3.0.0",
+  "description": "A knife-grinder music endeavor.",
+  "author": {
+    "name": "Guilherme Pangnotta",
+    "url": "http://setetr.es"
+  },
   "private": true,
   "scripts": {
     "dev": "nuxt",
@@ -15,13 +20,13 @@
     "@nuxtjs/axios": "5.13.6",
     "@tailwindcss/aspect-ratio": "0.3.0",
     "@tailwindcss/typography": "0.4.1",
-    "core-js": "3.19.3",
+    "core-js": "3.20.0",
     "nuxt": "2.15.8",
     "overlayscrollbars": "1.13.1",
     "overlayscrollbars-vue": "0.2.2"
   },
   "devDependencies": {
-    "@babel/eslint-parser": "7.16.3",
+    "@babel/eslint-parser": "7.16.5",
     "@nuxtjs/eslint-config": "6.0.1",
     "@nuxtjs/eslint-module": "3.0.2",
     "@nuxtjs/stylelint-module": "4.1.0",

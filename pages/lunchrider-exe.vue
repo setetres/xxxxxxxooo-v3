@@ -85,6 +85,8 @@
                       <a
                         href="#"
                         class="flex items-center justify-between text-red-500 underline hover:text-black"
+                        target="_blank"
+                        rel="noopener"
                       >
                         Apple Music 🡥
                       </a>
@@ -93,6 +95,8 @@
                       <a
                         href="#"
                         class="flex items-center justify-between text-red-500 underline hover:text-black"
+                        target="_blank"
+                        rel="noopener"
                       >
                         Bandcamp 🡥
                       </a>
@@ -101,6 +105,8 @@
                       <a
                         href="#"
                         class="flex items-center justify-between text-red-500 underline hover:text-black"
+                        target="_blank"
+                        rel="noopener"
                       >
                         Deezer 🡥
                       </a>
@@ -109,6 +115,8 @@
                       <a
                         href="#"
                         class="flex items-center justify-between text-red-500 underline hover:text-black"
+                        target="_blank"
+                        rel="noopener"
                       >
                         Spotify 🡥
                       </a>
@@ -117,14 +125,18 @@
                       <a
                         href="#"
                         class="flex items-center justify-between text-red-500 underline hover:text-black"
+                        target="_blank"
+                        rel="noopener"
                       >
                         Tidal 🡥
                       </a>
                     </li>
                     <li class="flex items-center justify-between">
                       <a
-                        href="#"
+                        href="https://www.youtube.com/watch?v=IN4rWsSFNv4"
                         class="flex items-center justify-between text-red-500 underline hover:text-black"
+                        target="_blank"
+                        rel="noopener"
                       >
                         YouTube 🡥
                       </a>
