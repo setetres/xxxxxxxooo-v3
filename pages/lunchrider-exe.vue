@@ -133,7 +133,7 @@
                     </li>
                     <li class="flex items-center justify-between">
                       <a
-                        href="https://www.youtube.com/watch?v=IN4rWsSFNv4"
+                        href="https://www.youtube.com/watch?v=o7GLLbly_6A"
                         class="flex items-center justify-between text-red-500 underline hover:text-black"
                         target="_blank"
                         rel="noopener"
