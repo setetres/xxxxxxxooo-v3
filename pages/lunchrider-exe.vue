@@ -81,7 +81,7 @@
                 </dt>
                 <dd class="flex-1 text-2xl">
                   <ul role="list">
-                    <li class="flex items-center justify-between">
+                    <!-- <li class="flex items-center justify-between">
                       <a
                         href="#"
                         class="flex items-center justify-between text-red-500 underline hover:text-black"
@@ -130,7 +130,7 @@
                       >
                         Tidal 🡥
                       </a>
-                    </li>
+                    </li> -->
                     <li class="flex items-center justify-between">
                       <a
                         href="https://www.youtube.com/watch?v=o7GLLbly_6A"
