@@ -11,7 +11,7 @@ export default {
       {
         name: 'viewport',
         content:
-          'width=device-width, height=device-height, user-scalable=no, initial-scale=1',
+        'width=device-width, height=device-height, user-scalable=no, initial-scale=1',
       },
       { name: 'format-detection', content: 'telephone=no' },
       {
@@ -70,7 +70,12 @@ export default {
     failedColor: '#e02020',
     throttle: 0,
   },
-  plugins: [],
+  plugins: [
+    {
+      src: "~/plugins/ga.js",
+      mode: "client"
+    }
+  ],
   components: true,
   buildModules: [
     '@nuxtjs/eslint-module',
