@@ -81,9 +81,9 @@
                 </dt>
                 <dd class="flex-1 text-2xl">
                   <ul role="list">
-                    <!-- <li class="flex items-center justify-between">
+                    <li class="flex items-center justify-between">
                       <a
-                        href="#"
+                        href="https://music.apple.com/br/album/lunchrider-exe-single/1600384926"
                         class="flex items-center justify-between text-red-500 underline hover:text-black"
                         target="_blank"
                         rel="noopener"
@@ -93,7 +93,7 @@
                     </li>
                     <li class="flex items-center justify-between">
                       <a
-                        href="#"
+                        href="https://xxxxxxxooo.bandcamp.com/album/lunchrider-exe"
                         class="flex items-center justify-between text-red-500 underline hover:text-black"
                         target="_blank"
                         rel="noopener"
@@ -103,7 +103,7 @@
                     </li>
                     <li class="flex items-center justify-between">
                       <a
-                        href="#"
+                        href="https://deezer.com/br/album/280521002"
                         class="flex items-center justify-between text-red-500 underline hover:text-black"
                         target="_blank"
                         rel="noopener"
@@ -113,7 +113,17 @@
                     </li>
                     <li class="flex items-center justify-between">
                       <a
-                        href="#"
+                        href="https://instagram.com/ar/430523635205836"
+                        class="flex items-center justify-between text-red-500 underline hover:text-black"
+                        target="_blank"
+                        rel="noopener"
+                      >
+                        Instagram Filter 🡥
+                      </a>
+                    </li>
+                    <li class="flex items-center justify-between">
+                      <a
+                        href="https://open.spotify.com/album/5llp2E1SNPaZZPT0Fospwi"
                         class="flex items-center justify-between text-red-500 underline hover:text-black"
                         target="_blank"
                         rel="noopener"
@@ -123,14 +133,14 @@
                     </li>
                     <li class="flex items-center justify-between">
                       <a
-                        href="#"
+                        href="https://tidal.com/browse/album/209251677"
                         class="flex items-center justify-between text-red-500 underline hover:text-black"
                         target="_blank"
                         rel="noopener"
                       >
                         Tidal 🡥
                       </a>
-                    </li> -->
+                    </li>
                     <li class="flex items-center justify-between">
                       <a
                         href="https://www.youtube.com/watch?v=o7GLLbly_6A"
