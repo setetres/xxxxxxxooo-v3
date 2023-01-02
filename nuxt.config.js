@@ -5,7 +5,7 @@ export default {
     htmlAttrs: {
       lang: 'en',
     },
-    title: 'XXXXXXXOOO',
+    title: 'XXXXXXXOOO — v3',
     meta: [
       { charset: 'utf-8' },
       {
@@ -21,7 +21,7 @@ export default {
       },
 
       { hid: 'og:type', property: 'og:type', content: 'website' },
-      { hid: 'og:title', property: 'og:title', content: 'XXXXXXXOOO' },
+      { hid: 'og:title', property: 'og:title', content: 'XXXXXXXOOO — v3' },
       {
         hid: 'og:description',
         property: 'og:description',
@@ -39,7 +39,7 @@ export default {
         name: 'twitter:card',
         content: 'summary_large_image',
       },
-      { hid: 'twitter:title', name: 'twitter:title', content: 'XXXXXXXOOO' },
+      { hid: 'twitter:title', name: 'twitter:title', content: 'XXXXXXXOOO — v3' },
       {
         hid: 'twitter:description',
         name: 'twitter:description',
