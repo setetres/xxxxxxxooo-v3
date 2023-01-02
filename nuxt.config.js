@@ -30,9 +30,9 @@ export default {
       {
         hid: 'og:image',
         property: 'og:image',
-        content: 'https://xxxxxxx.ooo/images/share-xxxxxxxooo-v3.png',
+        content: 'https://v3.xxxxxxx.ooo/images/share-xxxxxxxooo-v3.png',
       },
-      { hid: 'og:url', property: 'og:url', content: 'https://xxxxxxx.ooo' },
+      { hid: 'og:url', property: 'og:url', content: 'https://v3.xxxxxxx.ooo' },
 
       {
         hid: 'twitter:card',
@@ -48,7 +48,7 @@ export default {
       {
         hid: 'twitter:image',
         name: 'twitter:image',
-        content: 'https://xxxxxxx.ooo/images/share-xxxxxxxooo-v3.png',
+        content: 'https://v3.xxxxxxx.ooo/images/share-xxxxxxxooo-v3.png',
       },
     ],
     link: [
