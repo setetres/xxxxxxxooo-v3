@@ -185,7 +185,7 @@
 export default {
   head() {
     return {
-      title: 'XXXXXXXOOO — FEIN',
+      title: 'XXXXXXXOOO — v3',
     }
   },
 

@@ -174,7 +174,7 @@
 export default {
   head() {
     return {
-      title: 'XXXXXXXOOO — LunchRider.exe',
+      title: 'XXXXXXXOOO — v3',
     }
   },
 

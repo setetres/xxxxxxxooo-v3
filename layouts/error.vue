@@ -17,7 +17,7 @@ export default {
 
   head() {
     return {
-      title: 'XXXXXXXOOO — Error',
+      title: 'XXXXXXXOOO — v3',
     }
   },
 

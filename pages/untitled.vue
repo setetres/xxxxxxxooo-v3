@@ -142,7 +142,7 @@
 export default {
   head() {
     return {
-      title: 'XXXXXXXOOO — Untitled',
+      title: 'XXXXXXXOOO — v3',
     }
   },
 

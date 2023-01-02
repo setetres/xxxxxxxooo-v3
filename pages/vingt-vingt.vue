@@ -363,7 +363,7 @@
 export default {
   head() {
     return {
-      title: 'XXXXXXXOOO — VINGT-VINGT',
+      title: 'XXXXXXXOOO — v3',
     }
   },
 

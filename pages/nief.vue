@@ -448,7 +448,7 @@
 export default {
   head() {
     return {
-      title: 'XXXXXXXOOO — NIEF',
+      title: 'XXXXXXXOOO — v3',
     }
   },
 
